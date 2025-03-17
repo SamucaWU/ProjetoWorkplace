@@ -5,7 +5,7 @@ import os
 DEBUG = True
 
 # Chave secreta para o ambiente de desenvolvimento
-SECRET_KEY = config('developer-admin-SENA!8*#&*&=5gv@vo3os8gep0a3elx3&2ps9w$14u-_dr(ow+ytzoideveloper-admin-SENA!-SamucsSlk')
+SECRET_KEY = config()
 
 DATABASES = {
     'default': {
