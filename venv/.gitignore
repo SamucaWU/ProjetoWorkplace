@@ -1,0 +1,15 @@
+# created by virtualenv automatically
+
+
+# Ignorar arquivos e pastas específicas de configuração
+myproject/settings.py
+.env
+*.sqlite3
+*.pyc
+__pycache__/
+
+# Outras pastas que não precisam ser versionadas
+*.log
+*.bak
+
+

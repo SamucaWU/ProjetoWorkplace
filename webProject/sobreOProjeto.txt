@@ -1,0 +1,14 @@
+Data de início desse projeto: 17/03/2025
+Horário: 14:50
+
+ >Sobre o projeto:
+Este é um projeto de workplace com o intuito de fornecer aos usuários 
+a opção tanto de adicionar seus produtos a vendo quanto o usuário poder escolher os produtos selecionados
+para poder comprar.
+
+ >Participantes:
+Samuel Menezes Dias
+Rafael Paiva
+Miguel Oliver
+Iago Carvalho
+Felipe Timbó
